@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Johnzelle Bush Website</title>
+</head>
+<body>
+
+<h1>Johnzelle Bush Intro</h1>
+<p> Hello my name is Johnzelle Bush and i will be giving a brief summary about me.</p>
+<h2> Favorite hobby and interest
+<p>Basketball is my favorite hobby for a multitude of reasons. The exhilaration of dribbling down the court, the precision required to sink a three-pointer, and the teamwork involved
+in executing a flawless pick-and-roll all contribute to my love for the sport. Whether I'm playing with friends at the local court or watching a professional game, basketball never fails to
+captivate me. The physicality of the game keeps me active and engaged, while the strategic aspect challenges my mind. Overall, basketball is more than just a hobby to me—it's a passion
+that brings me joy and fulfillment.</p>
+<h3> Favorite Books </h3>
+<ol>
+  <li> Stuntboy, in the Meantime, by Jason Reynolds </li>
+  <li> Clean Getaway, by Nic Stone </li>
+  <li> The Great Gatsby by F. Scott Fitzgerald </li>
+  <li> Their Eyes Were Watching God by Zora Neale Hurston </li>
+  <li> Leaves of Grass by Walt Whitman </li>
+</ol>
+<h4> Least Favorite Movies </h4>
+<ul>
+  <li> BATMAN (2022) </li>
+  <li> AVATAR (All of them) </li>
+  <li> Justice League (2017) </li>
+  <li> Aquaman </li>
+  <li> GODZILLA</li>
+</ul>
+</body>
+</html>
