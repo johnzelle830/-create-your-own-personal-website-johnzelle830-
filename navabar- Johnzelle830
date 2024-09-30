@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Homepage</title>
+</head>
+<body>
+<h1>Hello Welcome To My Website!</h1>
+<p> On the homepage of the website, visitors can expect to find a visually appealing layout with a brief introduction to the purpose and content of the site. The About Me page 
+will provide a comprehensive overview of the individual behind the website, including their background, experience, and qualifications. The Resume page will showcase the individual's 
+professional achievements, education, skills, and any relevant certifications. Lastly, the Contact Me page will feature various methods for visitors to get in touch, such as a contact form,
+email address, social media links, or a phone number. Overall, the website will aim to provide a clear and informative representation of the individual's professional profile and offer easy
+access for potential collaborations or inquiries.</p>
+<!Doctype Html>  
+<Html>     
+<Head>      
+ 
+<!DOCTYPE html>
+<html>
+<head>
+<title> About ME Webpage</title>
+</head>
+<body>
+<h1> Hello My name is Johnzelle Bush </h1>
+  <img src="data:/jpeg:base64.jpg">
+<p>I am a passionate basketball player with a deep love for the game. From a young age, I have dedicated countless hours to honing my skills on the court, developing my technique, and studying the strategies of the game. Basketball has taught me the value of discipline, teamwork, and perseverance, shaping me into the individual I am today. Whether I am shooting hoops with friends for fun or competing in a high-stakes game, the thrill of the sport never fails to excite me. As I continue to push myself to improve and reach new heights in my basketball journey, I am grateful for the lessons and memories that the game has brought into my life.</p>
+ </body>
+  <Title>     
+Navigation Bar  
+</Title>  
+<Body>   
+<header>  
+<nav>  
+<ul>  
+<li>  
+<a href="#"> Homepage </a>  
+</li>  
+<li>  
+<a href="#"> About Me Page </a>  
+</li>  
+<li>  
+<a href="#"> Resume Page </a>  
+</li>  
+<li> <a href="#"> Contact Me</a>  
+</li>   
+</ul>  
+</nav>  
+</header>  
+</Body>   
+</Html> 
+  <!DOCTYPE html>
+<html>
+<head>
+<title> Contact Me</title>
+</head>
+<body>
+  <form>
+  <label for="Johnzelle">First name:</label><br>
+  <input type="text" id="Johnzelle" name="Johnzelle"><br>
+  <label for="Bush">Last name:</label><br>
+  <input type="text" id="Bush" name="Bush">
+</form>
+  <label for="Johnzebush@gmail.com">Email:</label><br>
+  <input type="text" id="email" value="Johnzebush@gmail.com"><br><br>
+</form>
+  <form>
+  <label for="subject">First name:</label><br>
+  <input type="text" id="subject" name="subject"><br>
+</form>
+  <form>
+    <input type="submit" value="Submit">
+  </form>
+  </body>
+    <Title>     
+Navigation Bar  
+</Title>  
+<Body>   
+<header>  
+<nav>  
+<ul>  
+<li>  
+<a href="#"> Homepage </a>  
+</li>  
+<li>  
+<a href="#"> About Me Page </a>  
+</li>  
+<li>  
+<a href="#"> Resume Page </a>  
+</li>  
+<li> <a href="#"> Contact Me</a>  
+</li>   
+</ul>  
+</nav>  
+</header>  
+</Body>   
+</Html> 
+  <!DOCTYPE html>
+<html>
+<head>
+<title> Resume </title>
+</head>
+<body>
+  <h1> Resume </h1>
+ <p> Johnzelle Bush
+4877 Wisteria Lane
+Fortson, GA 31808
+Johnzebush@gmail.com
+706-566-9691
+
+Objective:
+Motivated and detail-oriented Computer Science student with a GPA of 3.8 seeking internship opportunities to apply classroom knowledge in a practical setting and gain hands-on experience in software development in cybersecurity.
+
+Education:
+Bachelor in Computer Science at 
+Albany Technical College, Albany GA
+Expected Graduation: May 2025
+GPA: 3.8
+
+Relevant Coursework:
+
+Data Structures and Algorithms
+Object-Oriented Programming
+Database Management Systems
+Software Engineering
+Web Development
+Operating Systems
+Skills:
+Programming Languages: Java, Python, C++
+Web Technologies: HTML, CSS, JavaScript
+Frameworks: Django, Flask
+Databases: SQL, MongoDB
+Version Control: Git
+Operating Systems: Windows, Linux
+Software Development: Agile methodologies, Scrum
+Problem Solving and Critical Thinking
+
+Experience:
+Intern, Software Development
+Logistics Military Base, Albany Ga
+12/30/23-2/8/24
+
+Assisted in the development and testing of software applications under the supervision of senior developers.
+Collaborated with team members to analyze requirements and implement solutions.
+Participated in code reviews and contributed to the improvement of coding standards and practices.
+Resolved bugs and issues reported by users, ensuring smooth functionality of the software.
+
+Leadership and Extracurricular Activities:
+Martin Luther King Elementary School: I worked with the youth development program called the MLK Jr after school program.
+Volunteer, Coding Bootcamp for High School Students: Mentored high school students in basic programming concepts and helped them develop small projects during weekend bootcamps.
+Certifications: Hardware and Maintenance 
+
+AWS Certified Cloud Practitioner (in progress)
+References: Kathrine Spraggins (229) 430-0428
+Available upon request. </p>
+  </body>
+
+  
+  
