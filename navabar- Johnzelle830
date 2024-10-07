@@ -1,29 +1,47 @@
 <!DOCTYPE html>
 <html>
 <head>
+<div class="w3-blue w3-grayscale w3-large">
 <title> Homepage</title>
 </head>
 <body>
+<div class="w3-container w3-blue">
 <h1>Hello Welcome To My Website!</h1>
-<p> On the homepage of the website, visitors can expect to find a visually appealing layout with a brief introduction to the purpose and content of the site. The About Me page 
+</div>
+<div class="w3-container">
+<p style="red"> On the homepage of the website, visitors can expect to find a visually appealing layout with a brief introduction to the purpose and content of the site. The About Me page 
 will provide a comprehensive overview of the individual behind the website, including their background, experience, and qualifications. The Resume page will showcase the individual's 
 professional achievements, education, skills, and any relevant certifications. Lastly, the Contact Me page will feature various methods for visitors to get in touch, such as a contact form,
 email address, social media links, or a phone number. Overall, the website will aim to provide a clear and informative representation of the individual's professional profile and offer easy
 access for potential collaborations or inquiries.</p>
-<!Doctype Html>  
-<Html>     
-<Head>      
+</div>
+</div>
+</body>
+</html>       
  
 <!DOCTYPE html>
 <html>
 <head>
+<div class="w3-blue w3-grayscale w3-large">
 <title> About ME Webpage</title>
 </head>
 <body>
+<div class="w3-container w3-red">
 <h1> Hello My name is Johnzelle Bush </h1>
+</div>
   <img src="data:/jpeg:base64.jpg">
-<p>I am a passionate basketball player with a deep love for the game. From a young age, I have dedicated countless hours to honing my skills on the court, developing my technique, and studying the strategies of the game. Basketball has taught me the value of discipline, teamwork, and perseverance, shaping me into the individual I am today. Whether I am shooting hoops with friends for fun or competing in a high-stakes game, the thrill of the sport never fails to excite me. As I continue to push myself to improve and reach new heights in my basketball journey, I am grateful for the lessons and memories that the game has brought into my life.</p>
- </body>
+<div class="w3-container w3-yellow">
+<p style="teal">I am a passionate basketball player with a deep love for the game. From a young age, I have dedicated countless hours to honing my skills on the court, developing my technique, and studying the strategies of the game. Basketball has taught me the value of discipline, teamwork, and perseverance, shaping me into the individual I am today. Whether I am shooting hoops with friends for fun or competing in a high-stakes game, the thrill of the sport never fails to excite me. As I continue to push myself to improve and reach new heights in my basketball journey, I am grateful for the lessons and memories that the game has brought into my life.</p>
+</div>
+<h2> Hobbies</h2>
+<div class="w3-container w3-green">
+Gaming has been a beloved pastime of mine for many years. The vibrant world of video games offers an escape from reality, immersing players in captivating stories and challenging gameplay. Whether I am exploring vast open worlds, competing in intense multiplayer matches, or solving intricate puzzles, gaming provides a constant source of entertainment and excitement. The colorful characters, stunning visuals, and dynamic soundtracks create a truly immersive experience that keeps me coming back for more. As I navigate through virtual realms and conquer digital foes, the thrill of victory and sense of accomplishment are unmatched. Gaming is not just a hobby for me - it is a passion that fuels my creativity and brings joy to my life.
+</div>
+</html>
+</body>
+</div>
+
+<div class="w3-blue w3-grayscale w3-large">
   <Title>     
 Navigation Bar  
 </Title>  
@@ -47,29 +65,42 @@ Navigation Bar
 </header>  
 </Body>   
 </Html> 
+</div>
+
   <!DOCTYPE html>
 <html>
 <head>
+<div class="w3-blue w3-grayscale w3-large">
 <title> Contact Me</title>
 </head>
 <body>
   <form>
+<div class="w3-container w3-purple">
   <label for="Johnzelle">First name:</label><br>
   <input type="text" id="Johnzelle" name="Johnzelle"><br>
   <label for="Bush">Last name:</label><br>
   <input type="text" id="Bush" name="Bush">
+</div>
 </form>
+<div class="w3-container w3-yellow">
   <label for="Johnzebush@gmail.com">Email:</label><br>
   <input type="text" id="email" value="Johnzebush@gmail.com"><br><br>
+</div>
 </form>
   <form>
+<div class="w3-container w3-blue">
   <label for="subject">First name:</label><br>
   <input type="text" id="subject" name="subject"><br>
+/<div>
 </form>
   <form>
+<<div class="w3-container w3-brown">
     <input type="submit" value="Submit">
+</div>
   </form>
   </body>
+</div>
+<div class="w3-blue w3-grayscale w3-large">
     <Title>     
 Navigation Bar  
 </Title>  
@@ -92,6 +123,7 @@ Navigation Bar
 </nav>  
 </header>  
 </Body>   
+</div>
 </Html> 
   <!DOCTYPE html>
 <html>
